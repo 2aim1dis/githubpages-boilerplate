@@ -108,7 +108,7 @@ Read the full Roles & Responsibilities of the Executive Team [here](https://docs
 
 <div class="row">
   <div class="col-md-3">
-    <img src="/static/img/photo_clubs4.jpg" alt="Mozilla Clubs" class="img-responsive">
+    <img src="{{site.url}}/static/img/photo_clubs4.jpg" alt="Mozilla Clubs" class="img-responsive">
   </div>
 
   <div class="col-md-9">
